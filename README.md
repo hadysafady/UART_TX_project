@@ -53,7 +53,7 @@ Serial bitstream generated on tx_out
 ![UART TX Simulation](./img/waveform.png)
 This waveform shows UART transmission of multiple bytes and internal state transitions.
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Hady Sfady
 Electronics Engineer specializing in Digital Design, Verification, and FPGA.
 Passionate about RTL development and hands-on hardware projects.
