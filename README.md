@@ -32,7 +32,7 @@ The module transmits serial data based on incoming parallel 8-bit input and `tx_
 FSM States:  
 IDLE → START → DATA_0 → DATA_1 → ... → DATA_7 → STOP → IDLE
 
-![FSM UART TX](./img/FSM.PNG)
+![FSM UART TX](./img/FSM.png)
 
 ## Simulation
 
@@ -50,7 +50,7 @@ The tx_start signal initiating transmission
 Internal FSM state transitions
 Serial bitstream generated on tx_out
 
-![UART TX Simulation](./img/waveform.PNG)
+![UART TX Simulation](./img/waveform.png)
 This waveform shows UART transmission of multiple bytes and internal state transitions.
 
 🧑‍💻 Author
