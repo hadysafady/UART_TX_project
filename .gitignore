@@ -1,0 +1,26 @@
+# Vivado build files
+*.log
+*.jou
+*.str
+*.pb
+*.wdb
+*.bak
+*.backup.*
+*.webtalk*
+*.xpr.cache/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.data/
+*.srcs/sim_1/
+*.srcs/sources_1/bd/
+*.srcs/sources_1/ip/
+*.srcs/sources_1/ipshared/
+*.xsim/
+*.xvlog.*
+*.xsim.dir/
+vivado*
+__pycache__/
+.Xil/
